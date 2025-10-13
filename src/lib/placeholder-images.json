@@ -3,127 +3,127 @@
     {
       "id": "hero-1",
       "description": "Luxurious modern living room with large windows and city view",
-      "imageUrl": "https://picsum.photos/seed/hero1/1920/1080",
+      "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1920&auto=format&fit=crop",
       "imageHint": "modern living room"
     },
     {
       "id": "property-1-ext",
       "description": "Exterior of a modern villa with a swimming pool",
-      "imageUrl": "https://picsum.photos/seed/p1ext/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=800&auto=format&fit=crop",
       "imageHint": "modern house exterior"
     },
     {
       "id": "property-1-int",
       "description": "Interior of a modern villa living room",
-      "imageUrl": "https://picsum.photos/seed/p1int/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=800&auto=format&fit=crop",
       "imageHint": "modern interior"
     },
     {
       "id": "property-1-kit",
       "description": "Modern kitchen with marble island",
-      "imageUrl": "https://picsum.photos/seed/p1kit/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?q=80&w=800&auto=format&fit=crop",
       "imageHint": "modern kitchen"
     },
     {
       "id": "property-2-ext",
       "description": "City apartment building with balconies",
-      "imageUrl": "https://picsum.photos/seed/p2ext/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1580041065738-08b959334a18?q=80&w=800&auto=format&fit=crop",
       "imageHint": "apartment building"
     },
     {
       "id": "property-2-int",
       "description": "Cozy apartment living room with city view",
-      "imageUrl": "https://picsum.photos/seed/p2int/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1596900778235-95a4a5b6b8c4?q=80&w=800&auto=format&fit=crop",
       "imageHint": "apartment interior"
     },
     {
       "id": "property-3-ext",
       "description": "Suburban family home with a green lawn",
-      "imageUrl": "https://picsum.photos/seed/p3ext/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1576941089067-2de3c901e126?q=80&w=800&auto=format&fit=crop",
       "imageHint": "suburban house"
     },
     {
       "id": "property-4-ext",
       "description": "Luxury penthouse exterior with a rooftop terrace",
-      "imageUrl": "https://picsum.photos/seed/p4ext/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1621213609802-1c2217c0e5a9?q=80&w=800&auto=format&fit=crop",
       "imageHint": "luxury penthouse"
     },
     {
       "id": "property-5-ext",
       "description": "Beachfront property with ocean view",
-      "imageUrl": "https://picsum.photos/seed/p5ext/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1587186356024-9b9a695c9636?q=80&w=800&auto=format&fit=crop",
       "imageHint": "beach house"
     },
     {
       "id": "property-6-ext",
       "description": "Cozy cottage with a garden",
-      "imageUrl": "https://picsum.photos/seed/p6ext/800/600",
+      "imageUrl": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?q=80&w=800&auto=format&fit=crop",
       "imageHint": "cottage garden"
     },
     {
       "id": "testimonial-1",
       "description": "Portrait of a happy client",
-      "imageUrl": "https://picsum.photos/seed/t1/100/100",
+      "imageUrl": "https://images.unsplash.com/photo-1554151228-14d9def656e4?q=80&w=100&auto=format&fit=crop",
       "imageHint": "person smiling"
     },
     {
       "id": "testimonial-2",
       "description": "Portrait of a smiling couple",
-      "imageUrl": "https://picsum.photos/seed/t2/100/100",
+      "imageUrl": "https://images.unsplash.com/photo-1507553455338-c64a353c8f8b?q=80&w=100&auto=format&fit=crop",
       "imageHint": "happy couple"
     },
     {
       "id": "testimonial-3",
       "description": "Portrait of a professional man",
-      "imageUrl": "https://picsum.photos/seed/t3/100/100",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=100&auto=format&fit=crop",
       "imageHint": "professional man"
     },
     {
       "id": "team-1",
       "description": "Profile picture of the lead realtor",
-      "imageUrl": "https://picsum.photos/seed/team1/400/400",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&auto=format&fit=crop",
       "imageHint": "professional woman"
     },
     {
       "id": "team-2",
       "description": "Profile picture of a real estate agent",
-      "imageUrl": "https://picsum.photos/seed/team2/400/400",
+      "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=400&auto=format&fit=crop",
       "imageHint": "professional man"
     },
     {
       "id": "team-3",
       "description": "Profile picture of a client relations specialist",
-      "imageUrl": "https://picsum.photos/seed/team3/400/400",
+      "imageUrl": "https://images.unsplash.com/photo-1520466809213-7b9a56adcd45?q=80&w=400&auto=format&fit=crop",
       "imageHint": "woman smiling"
     },
     {
       "id": "about-story",
       "description": "Image representing the brand's story and mission",
-      "imageUrl": "https://picsum.photos/seed/about1/1200/800",
+      "imageUrl": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?q=80&w=1200&auto=format&fit=crop",
       "imageHint": "architectural design"
     },
     {
       "id": "blog-1",
       "description": "Image for a blog post about home buying tips",
-      "imageUrl": "https://picsum.photos/seed/blog1/800/500",
+      "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=800&auto=format&fit=crop",
       "imageHint": "house keys"
     },
     {
       "id": "blog-2",
       "description": "Image for a blog post about interior design trends",
-      "imageUrl": "https://picsum.photos/seed/blog2/800/500",
+      "imageUrl": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=800&auto=format&fit=crop",
       "imageHint": "stylish interior"
     },
     {
       "id": "blog-3",
       "description": "Image for a blog post about market analysis",
-      "imageUrl": "https://picsum.photos/seed/blog3/800/500",
+      "imageUrl": "https://images.unsplash.com/photo-1542361345-89e58247f2d5?q=80&w=800&auto=format&fit=crop",
       "imageHint": "city skyline"
     },
     {
       "id": "contact-hero",
       "description": "A welcoming office reception area",
-      "imageUrl": "https://picsum.photos/seed/contact1/1600/500",
+      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1600&auto=format&fit=crop",
       "imageHint": "office reception"
     }
   ]
