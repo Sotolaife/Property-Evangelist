@@ -1,3 +1,130 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "Luxurious modern living room with large windows and city view",
+      "imageUrl": "https://picsum.photos/seed/hero1/1920/1080",
+      "imageHint": "modern living room"
+    },
+    {
+      "id": "property-1-ext",
+      "description": "Exterior of a modern villa with a swimming pool",
+      "imageUrl": "https://picsum.photos/seed/p1ext/800/600",
+      "imageHint": "modern house exterior"
+    },
+    {
+      "id": "property-1-int",
+      "description": "Interior of a modern villa living room",
+      "imageUrl": "https://picsum.photos/seed/p1int/800/600",
+      "imageHint": "modern interior"
+    },
+    {
+      "id": "property-1-kit",
+      "description": "Modern kitchen with marble island",
+      "imageUrl": "https://picsum.photos/seed/p1kit/800/600",
+      "imageHint": "modern kitchen"
+    },
+    {
+      "id": "property-2-ext",
+      "description": "City apartment building with balconies",
+      "imageUrl": "https://picsum.photos/seed/p2ext/800/600",
+      "imageHint": "apartment building"
+    },
+    {
+      "id": "property-2-int",
+      "description": "Cozy apartment living room with city view",
+      "imageUrl": "https://picsum.photos/seed/p2int/800/600",
+      "imageHint": "apartment interior"
+    },
+    {
+      "id": "property-3-ext",
+      "description": "Suburban family home with a green lawn",
+      "imageUrl": "https://picsum.photos/seed/p3ext/800/600",
+      "imageHint": "suburban house"
+    },
+    {
+      "id": "property-4-ext",
+      "description": "Luxury penthouse exterior with a rooftop terrace",
+      "imageUrl": "https://picsum.photos/seed/p4ext/800/600",
+      "imageHint": "luxury penthouse"
+    },
+    {
+      "id": "property-5-ext",
+      "description": "Beachfront property with ocean view",
+      "imageUrl": "https://picsum.photos/seed/p5ext/800/600",
+      "imageHint": "beach house"
+    },
+    {
+      "id": "property-6-ext",
+      "description": "Cozy cottage with a garden",
+      "imageUrl": "https://picsum.photos/seed/p6ext/800/600",
+      "imageHint": "cottage garden"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Portrait of a happy client",
+      "imageUrl": "https://picsum.photos/seed/t1/100/100",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Portrait of a smiling couple",
+      "imageUrl": "https://picsum.photos/seed/t2/100/100",
+      "imageHint": "happy couple"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Portrait of a professional man",
+      "imageUrl": "https://picsum.photos/seed/t3/100/100",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "team-1",
+      "description": "Profile picture of the lead realtor",
+      "imageUrl": "https://picsum.photos/seed/team1/400/400",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "team-2",
+      "description": "Profile picture of a real estate agent",
+      "imageUrl": "https://picsum.photos/seed/team2/400/400",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "team-3",
+      "description": "Profile picture of a client relations specialist",
+      "imageUrl": "https://picsum.photos/seed/team3/400/400",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "about-story",
+      "description": "Image representing the brand's story and mission",
+      "imageUrl": "https://picsum.photos/seed/about1/1200/800",
+      "imageHint": "architectural design"
+    },
+    {
+      "id": "blog-1",
+      "description": "Image for a blog post about home buying tips",
+      "imageUrl": "https://picsum.photos/seed/blog1/800/500",
+      "imageHint": "house keys"
+    },
+    {
+      "id": "blog-2",
+      "description": "Image for a blog post about interior design trends",
+      "imageUrl": "https://picsum.photos/seed/blog2/800/500",
+      "imageHint": "stylish interior"
+    },
+    {
+      "id": "blog-3",
+      "description": "Image for a blog post about market analysis",
+      "imageUrl": "https://picsum.photos/seed/blog3/800/500",
+      "imageHint": "city skyline"
+    },
+    {
+      "id": "contact-hero",
+      "description": "A welcoming office reception area",
+      "imageUrl": "https://picsum.photos/seed/contact1/1600/500",
+      "imageHint": "office reception"
+    }
+  ]
 }
